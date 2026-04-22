@@ -10,9 +10,13 @@ based on https://github.com/atomiks/moonlight-vscode-theme
 
 ![moonlight](./screenshots/moonlight.png)
 
+#### Moonlight with semantic_tokens enabled
+
+![moonlight-semantic](./screenshots/semantic.png)
+
 #### Moonlight Italic
 
-![moonlight-italic](./screenshots/moonlight-italic.jpg)
+![moonlight-italic](./screenshots/moonlight-italic.png)
 
 ## Optional Zed Settings
 
